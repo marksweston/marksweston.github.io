@@ -30,8 +30,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: essentialenemy/noir
-remote_theme: essentialenemy/noir
+#theme: jekyll-theme-midnight
+remote_theme: thelehhman/texture
+show_excerpts: true
+texture:
+  title: Mark Weston
+  tagline: If I write it down, maybe I'll remember it?
+  style: black
+  social_links:
+    github: marksweston
 plugins:
   - jekyll-feed
 
